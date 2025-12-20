@@ -6,9 +6,11 @@ import org.example.repository.AdestradorRepository;
 import org.example.repository.PokemonRepository;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class PokemonService {
     private final PokemonRepository pokemonRepo;
     private final AdestradorRepository adestradorRepo;
