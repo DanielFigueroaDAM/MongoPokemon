@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Ash Ketchum",
+    "idade": 10,
+    "cidade": "Pallet Town"
+  },
+  {
+    "nome": "Misty",
+    "idade": 10,
+    "cidade": "Cerulean City"
+  },
+  {
+    "nome": "Brock",
+    "idade": 15,
+    "cidade": "Pewter City"
+  }
+]
+

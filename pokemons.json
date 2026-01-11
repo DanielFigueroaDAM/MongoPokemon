@@ -1,0 +1,24 @@
+[
+  {
+    "nome": "Pikachu",
+    "tipos": ["Eléctrico"],
+    "nivel": 15,
+    "habilidades": ["Thunderbolt", "Quick Attack"],
+    "adestradorId": "1"
+  },
+  {
+    "nome": "Charizard",
+    "tipos": ["Fuego", "Volador"],
+    "nivel": 45,
+    "habilidades": ["Flamethrower", "Dragon Claw"],
+    "adestradorId": "1"
+  },
+  {
+    "nome": "Blastoise",
+    "tipos": ["Agua"],
+    "nivel": 43,
+    "habilidades": ["Hydro Pump", "Ice Beam"],
+    "adestradorId": "2"
+  }
+]
+
